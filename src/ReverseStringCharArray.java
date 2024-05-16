@@ -1,7 +1,7 @@
 public class ReverseStringCharArray {
     public static void main(String[] args) {
         String str4="Malvika";
-        char [] char_str5= str4.toCharArray();
+        char[] char_str5= str4.toCharArray();
         int left=0;
         int right=char_str5.length-1;
         while(left<right){
